@@ -18,7 +18,7 @@ class ProdukController extends RestfulController
     }
     public function list()
     {
-        $model = new Produk();
+        $model = new MProduk();
         $produk = $model->findAll();
         return $this->responseHasil(200, true, $produk);
     }

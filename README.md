@@ -16,8 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-<h1>Hasil</h1>
-
+<h1>Hasil<br></h1>
+<br>
+<h1>Meet 1st</h1>
 <h2>Login Page<br></h2>
 <img src="flutter_1.png"><br><br>
 <h2>Register Page<br></h2>
@@ -28,5 +29,23 @@ samples, guidance on mobile development, and a full API reference.
 <img src="flutter_4.png"><br><br>
 <h2>Tambah Produk Page<br></h2>
 <img src="flutter_5.png"><br><br>
+<h2>Sidebar<br></h2>
+<img src="flutter_6.png"><br><br>
+<br>
+<h1>Meet 1st</h1>
+<h2>Login Page<br></h2>
+<img src="flutter_7.png"><img src="flutter_8.png"><br><br>
+<h2>Register Page<br></h2>
+<img src="flutter_9.png"><img src="flutter_10.png"><br><br>
+<h2>List Produk Page<br></h2>
+<img src="flutter_13.png"><img src="flutter_11.png"><img src="flutter_18.png"><br><br>
+<h2>Detail Produk Page<br></h2>
+<img src="flutter_14.png"><img src="flutter_16.png"><br><br>
+<h2>Tambah Produk Page<br></h2>
+<img src="flutter_12.png"><br><br>
+<h2>Ubah Produk Page<br></h2>
+<img src="flutter_15.png"><br><br>
+<h2>Delete Produk<br></h2>
+<img src="flutter_17.png"><br><br>
 <h2>Sidebar<br></h2>
 <img src="flutter_6.png"><br><br>
