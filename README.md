@@ -32,7 +32,7 @@ samples, guidance on mobile development, and a full API reference.
 <h2>Sidebar<br></h2>
 <img src="flutter_6.png"><br><br>
 <br>
-<h1>Meet 1st</h1>
+<h1>Meet 2nd</h1>
 <h2>Login Page<br></h2>
 <img src="flutter_7.png"><img src="flutter_8.png"><br><br>
 <h2>Register Page<br></h2>
